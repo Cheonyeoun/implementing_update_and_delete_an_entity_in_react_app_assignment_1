@@ -12,7 +12,8 @@ You should have a basic understanding of JavaScript, React, and familiarity with
 
 1. **Initialize State**: Inside your 'UpdateItem' component, initialize state variables to store the existing item, the updated item, and any API responses.
 
-2. **Find an API**: The `API_URI` is provided in the `src/App.jsx` file. You will use this URL to make requests to the API. 
+2. **Find an API**: The `API_URI` is provided in the `src/App.jsx` file. You will use this URL to make requests to the API.
+
    > **Note**: If you are unable to find the `API_URI`, please reach out to your mentor.
 
 3. **Fetch Existing Item**: Write a method that makes a GET request to the API to fetch the existing item when the component mounts.
